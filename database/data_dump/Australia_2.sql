@@ -148,13 +148,6 @@ VALUES
 288, 'Leopold', -38.1892, 144.4644
 );
 
-/* INSERT QUERY NO: 21 */
-INSERT INTO cities(id, name, latitude, longitude)
-VALUES
-(
-289, 'Concord', -33.8444, 151.0903
-);
-
 /* INSERT QUERY NO: 22 */
 INSERT INTO cities(id, name, latitude, longitude)
 VALUES
@@ -344,12 +337,6 @@ VALUES
 316, 'Wodonga', -36.1214, 146.8881
 );
 
-/* INSERT QUERY NO: 49 */
-INSERT INTO cities(id, name, latitude, longitude)
-VALUES
-(
-317, 'Albany', -35.0228, 117.8814
-);
 
 /* INSERT QUERY NO: 50 */
 INSERT INTO cities(id, name, latitude, longitude)
