@@ -106,7 +106,7 @@ VALUES
 );
 
 /* INSERT QUERY NO: 15 */
-INSERT INTO cities(name, latitude, longitude)
+INSERT IGNORE INTO cities(name, latitude, longitude)
 VALUES
 (
 'Istanbul', 41.01, 28.9603
