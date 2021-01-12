@@ -1,12 +1,12 @@
 ﻿/* Showing results for Asia import.xlsx */
 
 /* CREATE TABLE */
-CREATE TABLE cities(
-id DOUBLE,
-name VARCHAR(100),
-latitude DOUBLE,
-longitude DOUBLE
-);
+# CREATE TABLE cities(
+# id DOUBLE,
+# name VARCHAR(100),
+# latitude DOUBLE,
+# longitude DOUBLE
+# );
 
 /* INSERT QUERY NO: 1 */
 INSERT INTO cities(id, name, latitude, longitude)
