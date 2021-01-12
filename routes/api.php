@@ -23,7 +23,7 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
 //Route::get('/login', [LoginController::class, 'login'])->middleware('auth:sanctum');
 Route::post('/login', [LoginController::class, 'login']);
 
-Route::post('/logout', [LoginController::class, 'logout'])->middleware('auth:sanctum');
+Route::delete('/logout', [LoginController::class, 'logout'])->middleware('auth:sanctum');
 
 
 Route::post('/registration', [RegistrationController::class, 'store']);
