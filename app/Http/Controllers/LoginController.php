@@ -25,4 +25,9 @@ class LoginController extends Controller
         }
         return response(['message' => ['Wrong password!']], 401);
     }
+
+    public function logout(Request $request) {
+        $request->user()->currentAccessToken()->delete();
+        return response(["message" => "Logout successful"], 204);
+    }
 }
