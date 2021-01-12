@@ -20,5 +20,5 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
 });
 
 //Route::get('/login', [LoginController::class, 'login'])->middleware('auth:sanctum');
-Route::get('/login', [LoginController::class, 'login']);
+Route::post('/login', [LoginController::class, 'login']);
 
