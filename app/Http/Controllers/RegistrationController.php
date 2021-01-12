@@ -23,7 +23,7 @@ class RegistrationController extends Controller
      * Store a newly created resource in storage.
      *
      * @param \Illuminate\Http\Request $request
-     * @return \Illuminate\Http\JsonResponse
+     * @return \Illuminate\Http\Response
      */
     public function store(Request $request)
     {
@@ -35,7 +35,7 @@ class RegistrationController extends Controller
         ]);
 
         if($validator->fails()){
-            return response()->json($validator->errors()->toJson(), 400);
+            return response($validator->errors(), 400);
         }
 
         $user = User::create(array_merge(
@@ -43,7 +43,7 @@ class RegistrationController extends Controller
             ['password' => bcrypt($request->password)]
         ));
 
-        return response()->json([
+        return response([
             'message' => 'User successfully registered',
             'user' => $user
         ], 201);
