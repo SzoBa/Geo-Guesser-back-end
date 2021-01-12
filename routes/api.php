@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\LoginController;
+use App\Http\Controllers\RegistrationController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
@@ -24,3 +25,5 @@ Route::post('/login', [LoginController::class, 'login']);
 
 Route::post('/logout', [LoginController::class, 'logout'])->middleware('auth:sanctum');
 
+
+Route::post('/registration', [RegistrationController::class, 'store']);
