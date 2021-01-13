@@ -31,4 +31,5 @@ Route::post('/registration', [RegistrationController::class, 'store']);
 
 //highscores
 Route::get('/highscores', [HighscoreController::class, 'index']);
+Route::post('/highscores', [HighscoreController::class, 'store'])->middleware('auth:sanctum');
 
