@@ -12,7 +12,7 @@ class LoginController extends Controller
     public function login(Request $request) {
         $rules = [
             'email' => 'required|string|email|max:255|exists:users,email',
-            'password' => 'required|string|min:8',
+            'password' => 'required|string|min:6',
         ];
         $validation = Validator::make($request->all(), $rules);
         if ($validation->fails()) {
