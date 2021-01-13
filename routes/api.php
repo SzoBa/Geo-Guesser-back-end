@@ -22,20 +22,15 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
     return $request->user();
 });
 
-//Route::get('/login', [LoginController::class, 'login'])->middleware('auth:sanctum');
-Route::post('/login', [LoginController::class, 'login']);
-
-Route::delete('/logout', [LoginController::class, 'logout'])->middleware('auth:sanctum');
-
-Route::get('/highscore/{mapId}', [HighscoreController::class, 'getById'])->middleware('auth:sanctum');
-
 Route::post('/registration', [RegistrationController::class, 'store']);
 
-Route::get('/maps', [MapController::class, 'index']);
+Route::post('/login', [LoginController::class, 'login']);
+Route::delete('/logout', [LoginController::class, 'logout'])->middleware('auth:sanctum');
 
-Route::post('/map', [MapController::class, 'show']);
+Route::get('/maps', [MapController::class, 'index'])->middleware('auth:sanctum');
+Route::post('/map', [MapController::class, 'show'])->middleware('auth:sanctum');
 
-//highscores
 Route::get('/highscores', [HighscoreController::class, 'index']);
+Route::get('/highscore/{mapId}', [HighscoreController::class, 'getById'])->middleware('auth:sanctum');
 Route::post('/highscores', [HighscoreController::class, 'store'])->middleware('auth:sanctum');
 
