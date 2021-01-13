@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\HighscoreController;
 use App\Http\Controllers\LoginController;
 use App\Http\Controllers\RegistrationController;
 use Illuminate\Http\Request;
@@ -27,3 +28,7 @@ Route::delete('/logout', [LoginController::class, 'logout'])->middleware('auth:s
 
 
 Route::post('/registration', [RegistrationController::class, 'store']);
+
+//highscores
+Route::get('/highscores', [HighscoreController::class, 'index']);
+
