@@ -35,8 +35,12 @@ class MapController extends Controller
      * @param  int $id
      * @return \Illuminate\Http\Response
      */
-    public function show(int $id)
+    public function show(Request $request)
     {
+        $id = $request->get('id');
+        if (is_null($id)){
+            return response(['message'=> 'No id!'], 404);
+        }
         $map = Map::find($id);
         if (is_null($map)) {
             return response(['message'=> 'Invalid map id!'], 404);

@@ -31,4 +31,4 @@ Route::post('/registration', [RegistrationController::class, 'store']);
 
 Route::get('/maps', [MapController::class, 'index']);
 
-Route::get('/map/{id}', [MapController::class, 'show']);
+Route::post('/map', [MapController::class, 'show']);
