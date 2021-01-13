@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\LoginController;
+use App\Http\Controllers\MapController;
 use App\Http\Controllers\RegistrationController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
@@ -27,3 +28,7 @@ Route::delete('/logout', [LoginController::class, 'logout'])->middleware('auth:s
 
 
 Route::post('/registration', [RegistrationController::class, 'store']);
+
+Route::get('/maps', [MapController::class, 'index']);
+
+Route::get('/map/{id}', [MapController::class, 'show']);
