@@ -8,4 +8,10 @@ use Illuminate\Database\Eloquent\Model;
 class Highscore extends Model
 {
     use HasFactory;
+
+    protected $fillable = [
+        'user_id',
+        'map_id',
+        'score',
+    ];
 }
