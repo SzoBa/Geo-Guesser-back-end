@@ -37,7 +37,12 @@ class HighscoreController extends Controller
      */
     public function store(Request $request)
     {
-        //
+        Highscore::create([
+            'user_id' => $request->user()->id,
+            'score' => $request->get('score'),
+            'map_id' => $request->get('map'),
+        ]);
+        return response(["message"=> "success"], 201 );
     }
 
     /**
