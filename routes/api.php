@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\HighscoreController;
 use App\Http\Controllers\LoginController;
 use App\Http\Controllers\RegistrationController;
 use Illuminate\Http\Request;
@@ -25,5 +26,6 @@ Route::post('/login', [LoginController::class, 'login']);
 
 Route::delete('/logout', [LoginController::class, 'logout'])->middleware('auth:sanctum');
 
+Route::get('/highscore/{mapId}', [HighscoreController::class, 'getById'])->middleware('auth:sanctum');
 
 Route::post('/registration', [RegistrationController::class, 'store']);
