@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Models\Highscore;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\DB;
 
 class HighscoreController extends Controller
 {
@@ -14,7 +15,18 @@ class HighscoreController extends Controller
      */
     public function index()
     {
-        //
+        //get top ten
+
+        $scores =
+            DB::table('highscores')
+                ->join('users', 'highscores.user_id', '=', 'users.id')
+                ->select('highscores.*', 'users.name')
+                ->orderBy('highscores.score', 'DESC')
+                ->take(10)
+                ->get();
+
+
+        return response(['highscores' => $scores], 201);
     }
 
     /**
@@ -25,7 +37,12 @@ class HighscoreController extends Controller
      */
     public function store(Request $request)
     {
-        //
+        Highscore::create([
+            'user_id' => $request->user()->id,
+            'score' => $request->get('score'),
+            'map_id' => $request->get('map'),
+        ]);
+        return response(["message"=> "success"], 201 );
     }
 
     /**

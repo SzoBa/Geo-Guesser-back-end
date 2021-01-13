@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\HighscoreController;
 use App\Http\Controllers\LoginController;
 use App\Http\Controllers\MapController;
 use App\Http\Controllers\RegistrationController;
@@ -32,3 +33,8 @@ Route::post('/registration', [RegistrationController::class, 'store']);
 Route::get('/maps', [MapController::class, 'index']);
 
 Route::post('/map', [MapController::class, 'show']);
+
+//highscores
+Route::get('/highscores', [HighscoreController::class, 'index']);
+Route::post('/highscores', [HighscoreController::class, 'store'])->middleware('auth:sanctum');
+
