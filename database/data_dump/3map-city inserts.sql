@@ -125,7 +125,6 @@ INSERT INTO `map-city`(city_id, map_id)VALUES(124, 2);
 INSERT INTO `map-city`(city_id, map_id)VALUES(125, 2);
 INSERT INTO `map-city`(city_id, map_id)VALUES(126, 2);
 INSERT INTO `map-city`(city_id, map_id)VALUES(127, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(128, 2);
 INSERT INTO `map-city`(city_id, map_id)VALUES(129, 2);
 INSERT INTO `map-city`(city_id, map_id)VALUES(130, 2);
 INSERT INTO `map-city`(city_id, map_id)VALUES(131, 2);

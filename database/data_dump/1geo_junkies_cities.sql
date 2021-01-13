@@ -125,7 +125,6 @@ insert into geo_junkies.cities (id, name, latitude, longitude, created_at, updat
 insert into geo_junkies.cities (id, name, latitude, longitude, created_at, updated_at) values (125, 'Tucson', 32.15, -110.88, null, null);
 insert into geo_junkies.cities (id, name, latitude, longitude, created_at, updated_at) values (126, 'Omaha', 41.26, -96.05, null, null);
 insert into geo_junkies.cities (id, name, latitude, longitude, created_at, updated_at) values (127, 'El Paso', 31.85, -106.43, null, null);
-insert into geo_junkies.cities (id, name, latitude, longitude, created_at, updated_at) values (128, 'Honolulu', 21.33, -157.85, null, null);
 insert into geo_junkies.cities (id, name, latitude, longitude, created_at, updated_at) values (129, 'McAllen', 26.23, -98.25, null, null);
 insert into geo_junkies.cities (id, name, latitude, longitude, created_at, updated_at) values (130, 'Hempstead', 40.66, -73.61, null, null);
 insert into geo_junkies.cities (id, name, latitude, longitude, created_at, updated_at) values (131, 'Albuquerque', 35.11, -106.65, null, null);
