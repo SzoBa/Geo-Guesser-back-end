@@ -613,7 +613,6 @@ insert into geo_junkies.cities (id, name, latitude, longitude, created_at, updat
 insert into geo_junkies.cities (id, name, latitude, longitude, created_at, updated_at) values (622, 'Oxford', 51.75, -1.26, null, null);
 insert into geo_junkies.cities (id, name, latitude, longitude, created_at, updated_at) values (623, 'Vatican City', 41.9, 12.45, null, null);
 insert into geo_junkies.cities (id, name, latitude, longitude, created_at, updated_at) values (624, 'Tokyo', 35.69, 139.69, null, null);
-insert into geo_junkies.cities (id, name, latitude, longitude, created_at, updated_at) values (625, 'Jakarta', -6.21, 106.85, null, null);
 insert into geo_junkies.cities (id, name, latitude, longitude, created_at, updated_at) values (626, 'Delhi', 28.66, 77.23, null, null);
 insert into geo_junkies.cities (id, name, latitude, longitude, created_at, updated_at) values (627, 'Mumbai', 18.97, 72.83, null, null);
 insert into geo_junkies.cities (id, name, latitude, longitude, created_at, updated_at) values (628, 'Manila', 14.6, 120.98, null, null);
@@ -646,7 +645,6 @@ insert into geo_junkies.cities (id, name, latitude, longitude, created_at, updat
 insert into geo_junkies.cities (id, name, latitude, longitude, created_at, updated_at) values (656, 'Cangzhou', 38.3, 116.85, null, null);
 insert into geo_junkies.cities (id, name, latitude, longitude, created_at, updated_at) values (657, 'Hangzhou', 30.25, 120.17, null, null);
 insert into geo_junkies.cities (id, name, latitude, longitude, created_at, updated_at) values (658, 'Baghdad', 33.35, 44.42, null, null);
-insert into geo_junkies.cities (id, name, latitude, longitude, created_at, updated_at) values (659, 'Singapore', 1.3, 103.8, null, null);
 insert into geo_junkies.cities (id, name, latitude, longitude, created_at, updated_at) values (660, 'Rangoon', 16.8, 96.15, null, null);
 insert into geo_junkies.cities (id, name, latitude, longitude, created_at, updated_at) values (662, 'Amman', 31.95, 35.93, null, null);
 insert into geo_junkies.cities (id, name, latitude, longitude, created_at, updated_at) values (663, 'Yokohama', 35.43, 139.63, null, null);
@@ -680,7 +678,6 @@ insert into geo_junkies.cities (id, name, latitude, longitude, created_at, updat
 insert into geo_junkies.cities (id, name, latitude, longitude, created_at, updated_at) values (694, 'Colombo', 6.92, 79.83, null, null);
 insert into geo_junkies.cities (id, name, latitude, longitude, created_at, updated_at) values (695, 'Kuwait City', 29.38, 47.98, null, null);
 insert into geo_junkies.cities (id, name, latitude, longitude, created_at, updated_at) values (696, 'Beirut', 33.89, 35.51, null, null);
-insert into geo_junkies.cities (id, name, latitude, longitude, created_at, updated_at) values (697, 'Dili', -8.56, 125.57, null, null);
 insert into geo_junkies.cities (id, name, latitude, longitude, created_at, updated_at) values (698, 'Male', 4.17, 73.51, null, null);
 insert into geo_junkies.cities (id, name, latitude, longitude, created_at, updated_at) values (699, 'Manama', 26.22, 50.58, null, null);
 insert into geo_junkies.cities (id, name, latitude, longitude, created_at, updated_at) values (700, 'New Delhi', 28.7, 77.2, null, null);
