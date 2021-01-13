@@ -56,6 +56,26 @@ class HighscoreController extends Controller
         //
     }
 
+
+    /**
+     * Respond with the specified highscores.
+     *
+     * @param Request $request
+     * @param int $mapId
+     * @return \Illuminate\Http\Response
+     */
+    public function getById(Request $request, int $mapId)
+    {
+        $userId = $request->user()->id;
+        $highscores = DB::table('highscores')
+            ->select("score", "created_at")
+            ->where('user_id', $userId)
+            ->where('map_id', $mapId)
+            ->orderBy('score', 'DESC')
+            ->get();
+        return response($highscores, 200);
+    }
+
     /**
      * Update the specified resource in storage.
      *

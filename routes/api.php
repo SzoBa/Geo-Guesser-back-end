@@ -27,6 +27,7 @@ Route::post('/login', [LoginController::class, 'login']);
 
 Route::delete('/logout', [LoginController::class, 'logout'])->middleware('auth:sanctum');
 
+Route::get('/highscore/{mapId}', [HighscoreController::class, 'getById'])->middleware('auth:sanctum');
 
 Route::post('/registration', [RegistrationController::class, 'store']);
 
