@@ -13,7 +13,7 @@ class HighscoreController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
-    public function index()
+    public function index(int $mapId)
     {
         //get top ten
 
@@ -21,6 +21,7 @@ class HighscoreController extends Controller
             DB::table('highscores')
                 ->join('users', 'highscores.user_id', '=', 'users.id')
                 ->select('highscores.*', 'users.name')
+                ->where('highscores.map_id', $mapId)
                 ->orderBy('highscores.score', 'DESC')
                 ->take(10)
                 ->get();

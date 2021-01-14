@@ -30,7 +30,7 @@ Route::delete('/logout', [LoginController::class, 'logout'])->middleware('auth:s
 Route::get('/maps', [MapController::class, 'index'])->middleware('auth:sanctum');
 Route::post('/map', [MapController::class, 'show'])->middleware('auth:sanctum');
 
-Route::get('/highscores', [HighscoreController::class, 'index']);
+Route::get('/highscores/{mapId}', [HighscoreController::class, 'index']);
 Route::get('/highscore/{mapId}', [HighscoreController::class, 'getById'])->middleware('auth:sanctum');
 Route::post('/highscores', [HighscoreController::class, 'store'])->middleware('auth:sanctum');
 
