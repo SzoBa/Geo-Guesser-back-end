@@ -9,7 +9,7 @@ use Illuminate\Support\Facades\DB;
 class MapController extends Controller
 {
     /**
-     * Display a listing of the resource.
+     * Display a listing of maps available.
      *
      * @return \Illuminate\Http\Response
      */
