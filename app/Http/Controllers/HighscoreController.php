@@ -4,19 +4,19 @@ namespace App\Http\Controllers;
 
 use App\Models\Highscore;
 use Illuminate\Http\Request;
+use Illuminate\Http\Response;
 use Illuminate\Support\Facades\DB;
 
 class HighscoreController extends Controller
 {
     /**
-     * Display a listing of the resource.
+     * Get the top ten highscore of a map.
      *
-     * @return \Illuminate\Http\Response
+     * @param int $mapId
+     * @return Response
      */
-    public function index(int $mapId)
+    public function index(int $mapId): Response
     {
-        //get top ten
-
         $scores =
             DB::table('highscores')
                 ->join('users', 'highscores.user_id', '=', 'users.id')
@@ -25,18 +25,16 @@ class HighscoreController extends Controller
                 ->orderBy('highscores.score', 'DESC')
                 ->take(10)
                 ->get();
-
-
         return response(['highscores' => $scores], 201);
     }
 
     /**
-     * Store a newly created resource in storage.
+     * Store a new highscore.
      *
-     * @param  \Illuminate\Http\Request  $request
-     * @return \Illuminate\Http\Response
+     * @param Request $request
+     * @return Response
      */
-    public function store(Request $request)
+    public function store(Request $request): Response
     {
         Highscore::create([
             'user_id' => $request->user()->id,
@@ -47,25 +45,13 @@ class HighscoreController extends Controller
     }
 
     /**
-     * Display the specified resource.
-     *
-     * @param  \App\Models\Highscore  $highscore
-     * @return \Illuminate\Http\Response
-     */
-    public function show(Highscore $highscore)
-    {
-        //
-    }
-
-
-    /**
-     * Respond with the specified highscores.
+     * Respond with the corresponding highscores of a map.
      *
      * @param Request $request
      * @param int $mapId
-     * @return \Illuminate\Http\Response
+     * @return Response
      */
-    public function getById(Request $request, int $mapId)
+    public function getById(Request $request, int $mapId): Response
     {
         $userId = $request->user()->id;
         $highscores = DB::table('highscores')
@@ -75,28 +61,5 @@ class HighscoreController extends Controller
             ->orderBy('score', 'DESC')
             ->get();
         return response($highscores, 200);
-    }
-
-    /**
-     * Update the specified resource in storage.
-     *
-     * @param  \Illuminate\Http\Request  $request
-     * @param  \App\Models\Highscore  $highscore
-     * @return \Illuminate\Http\Response
-     */
-    public function update(Request $request, Highscore $highscore)
-    {
-        //
-    }
-
-    /**
-     * Remove the specified resource from storage.
-     *
-     * @param  \App\Models\Highscore  $highscore
-     * @return \Illuminate\Http\Response
-     */
-    public function destroy(Highscore $highscore)
-    {
-        //
     }
 }
