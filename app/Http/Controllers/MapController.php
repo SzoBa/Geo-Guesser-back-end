@@ -44,16 +44,4 @@ class MapController extends Controller
 
         return response($cities, 200);
     }
-
-
-    /**
-     * Remove the specified resource from storage.
-     *
-     * @param  \App\Models\Map  $map
-     * @return \Illuminate\Http\Response
-     */
-    public function destroy(Map $map)
-    {
-        //
-    }
 }
