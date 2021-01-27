@@ -20,7 +20,7 @@ class MapController extends Controller
 
 
     /**
-     * Display the specified resource.
+     * Display the requested map and relating cities.
      *
      * @param  int $id
      * @return \Illuminate\Http\Response
