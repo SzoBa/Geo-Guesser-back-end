@@ -45,17 +45,6 @@ class MapController extends Controller
         return response($cities, 200);
     }
 
-    /**
-     * Update the specified resource in storage.
-     *
-     * @param  \Illuminate\Http\Request  $request
-     * @param  \App\Models\Map  $map
-     * @return \Illuminate\Http\Response
-     */
-    public function update(Request $request, Map $map)
-    {
-        //
-    }
 
     /**
      * Remove the specified resource from storage.
