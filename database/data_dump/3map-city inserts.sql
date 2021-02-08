@@ -1,922 +1,925 @@
-﻿INSERT INTO `map-city`(city_id, map_id)VALUES(1, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(2, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(3, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(4, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(5, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(6, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(7, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(8, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(9, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(10, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(11, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(12, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(13, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(14, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(15, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(16, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(17, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(18, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(19, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(20, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(21, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(22, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(23, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(24, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(25, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(26, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(27, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(28, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(29, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(30, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(31, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(32, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(33, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(34, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(35, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(36, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(37, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(38, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(39, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(40, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(41, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(42, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(43, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(44, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(45, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(46, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(47, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(48, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(49, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(50, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(51, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(52, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(53, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(54, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(55, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(56, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(57, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(58, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(59, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(60, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(61, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(62, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(63, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(64, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(65, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(66, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(67, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(68, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(69, 1);
-INSERT INTO `map-city`(city_id, map_id)VALUES(70, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(71, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(72, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(73, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(74, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(75, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(76, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(77, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(78, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(79, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(80, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(81, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(82, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(83, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(84, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(85, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(86, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(87, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(88, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(89, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(90, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(91, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(92, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(93, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(94, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(95, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(96, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(97, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(98, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(99, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(100, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(101, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(102, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(103, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(104, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(105, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(106, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(107, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(108, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(109, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(110, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(111, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(112, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(113, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(114, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(115, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(116, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(117, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(118, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(119, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(120, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(121, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(122, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(123, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(124, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(125, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(126, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(127, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(129, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(130, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(131, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(132, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(133, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(134, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(135, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(136, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(137, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(138, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(139, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(140, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(141, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(142, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(143, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(144, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(145, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(146, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(147, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(148, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(149, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(150, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(151, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(152, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(153, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(154, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(155, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(156, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(157, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(158, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(159, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(160, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(161, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(162, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(163, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(164, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(165, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(166, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(167, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(168, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(169, 2);
-INSERT INTO `map-city`(city_id, map_id)VALUES(170, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(171, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(172, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(173, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(174, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(175, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(176, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(177, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(178, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(179, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(180, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(181, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(182, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(183, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(184, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(185, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(186, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(187, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(188, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(189, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(190, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(191, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(192, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(193, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(194, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(195, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(196, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(198, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(199, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(200, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(201, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(202, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(203, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(204, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(205, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(206, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(207, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(208, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(209, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(210, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(211, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(212, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(213, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(214, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(215, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(216, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(217, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(218, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(219, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(220, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(221, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(222, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(223, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(224, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(225, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(226, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(227, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(228, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(229, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(230, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(231, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(232, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(233, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(234, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(235, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(236, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(237, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(238, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(239, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(240, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(241, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(242, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(243, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(244, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(245, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(246, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(247, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(248, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(249, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(250, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(251, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(252, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(253, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(254, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(255, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(256, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(257, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(258, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(259, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(260, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(261, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(262, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(263, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(264, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(265, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(266, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(267, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(268, 3);
-INSERT INTO `map-city`(city_id, map_id)VALUES(269, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(270, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(271, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(272, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(273, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(274, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(275, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(276, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(277, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(278, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(279, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(280, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(281, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(282, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(283, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(284, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(285, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(286, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(287, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(288, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(290, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(291, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(292, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(293, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(294, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(295, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(296, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(297, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(298, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(299, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(300, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(301, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(302, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(303, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(304, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(305, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(306, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(307, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(308, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(309, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(310, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(311, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(312, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(313, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(314, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(315, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(316, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(318, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(319, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(320, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(321, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(322, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(323, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(324, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(325, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(326, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(327, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(328, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(329, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(330, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(331, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(332, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(333, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(334, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(335, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(336, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(337, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(338, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(339, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(340, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(341, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(342, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(343, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(344, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(345, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(346, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(347, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(348, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(349, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(350, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(351, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(352, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(353, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(354, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(355, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(356, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(357, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(358, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(359, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(360, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(361, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(362, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(363, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(364, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(365, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(366, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(367, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(368, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(369, 4);
-INSERT INTO `map-city`(city_id, map_id)VALUES(370, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(371, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(372, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(373, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(374, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(375, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(376, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(377, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(378, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(379, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(380, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(381, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(382, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(383, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(384, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(385, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(386, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(387, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(388, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(389, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(390, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(391, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(392, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(393, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(394, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(395, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(396, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(397, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(398, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(399, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(400, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(401, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(402, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(403, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(404, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(405, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(406, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(407, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(408, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(409, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(410, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(411, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(412, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(413, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(414, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(415, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(416, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(417, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(418, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(419, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(420, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(421, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(422, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(423, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(424, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(425, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(426, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(427, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(428, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(429, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(430, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(431, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(432, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(433, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(434, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(435, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(436, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(437, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(438, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(439, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(440, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(441, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(442, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(443, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(444, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(445, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(446, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(447, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(448, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(449, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(450, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(451, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(452, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(453, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(454, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(455, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(456, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(457, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(458, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(459, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(460, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(461, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(462, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(463, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(464, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(465, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(466, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(467, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(468, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(469, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(470, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(471, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(472, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(473, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(474, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(475, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(476, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(477, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(478, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(479, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(480, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(481, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(482, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(483, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(484, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(485, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(486, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(487, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(488, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(489, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(490, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(491, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(492, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(493, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(494, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(495, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(496, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(497, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(498, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(499, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(500, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(501, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(502, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(503, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(504, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(505, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(506, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(507, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(508, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(509, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(510, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(511, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(512, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(513, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(514, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(515, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(516, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(517, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(518, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(519, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(520, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(521, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(522, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(523, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(524, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(525, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(526, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(527, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(528, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(529, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(530, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(531, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(532, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(533, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(534, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(535, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(536, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(537, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(538, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(539, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(540, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(541, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(542, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(543, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(544, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(545, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(546, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(547, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(548, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(549, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(550, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(551, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(552, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(553, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(554, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(555, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(556, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(557, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(558, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(559, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(560, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(561, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(562, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(563, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(564, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(565, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(566, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(567, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(568, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(569, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(570, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(571, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(572, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(573, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(574, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(575, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(576, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(577, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(579, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(580, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(581, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(583, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(584, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(585, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(586, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(587, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(588, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(589, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(590, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(591, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(592, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(593, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(594, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(595, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(596, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(597, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(598, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(599, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(600, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(601, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(602, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(603, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(604, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(605, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(606, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(607, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(608, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(610, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(611, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(613, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(614, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(615, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(616, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(617, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(618, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(619, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(621, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(622, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(623, 5);
-INSERT INTO `map-city`(city_id, map_id)VALUES(624, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(626, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(627, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(628, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(629, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(630, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(631, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(632, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(633, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(635, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(636, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(637, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(638, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(639, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(640, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(641, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(642, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(643, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(644, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(645, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(646, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(647, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(648, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(649, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(650, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(651, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(652, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(653, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(654, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(655, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(656, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(657, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(658, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(660, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(662, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(663, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(664, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(665, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(666, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(667, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(668, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(669, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(670, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(672, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(673, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(674, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(675, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(676, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(677, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(678, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(679, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(680, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(681, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(682, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(683, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(686, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(687, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(688, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(689, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(690, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(691, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(692, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(693, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(694, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(695, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(696, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(698, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(699, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(700, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(701, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(702, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(703, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(704, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(705, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(706, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(730, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(731, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(732, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(733, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(734, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(735, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(736, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(737, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(738, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(739, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(740, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(741, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(742, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(743, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(744, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(745, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(746, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(747, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(748, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(749, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(750, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(751, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(753, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(754, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(755, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(756, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(757, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(760, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(761, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(762, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(763, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(764, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(765, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(767, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(768, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(769, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(770, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(772, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(773, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(774, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(775, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(776, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(777, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(778, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(780, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(781, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(782, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(783, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(784, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(787, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(788, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(789, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(790, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(791, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(792, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(793, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(794, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(795, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(796, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(797, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(798, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(799, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(800, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(801, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(802, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(803, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(804, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(805, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(807, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(808, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(809, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(810, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(811, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(812, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(813, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(814, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(815, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(816, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(817, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(818, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(819, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(820, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(821, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(822, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(823, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(824, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(825, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(826, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(827, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(828, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(829, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(830, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(831, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(832, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(833, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(834, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(835, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(836, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(837, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(838, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(839, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(840, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(841, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(842, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(843, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(844, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(845, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(846, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(847, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(848, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(849, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(850, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(851, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(852, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(853, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(854, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(855, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(856, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(857, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(858, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(859, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(860, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(861, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(862, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(863, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(864, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(865, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(866, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(867, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(868, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(869, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(870, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(871, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(872, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(873, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(874, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(875, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(876, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(877, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(878, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(879, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(880, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(881, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(882, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(883, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(884, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(885, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(886, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(887, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(888, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(889, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(890, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(891, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(892, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(893, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(894, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(895, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(896, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(897, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(898, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(899, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(900, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(901, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(902, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(903, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(904, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(905, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(906, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(907, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(908, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(909, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(910, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(911, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(912, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(913, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(914, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(915, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(916, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(917, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(918, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(919, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(920, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(921, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(922, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(923, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(924, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(925, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(926, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(927, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(928, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(929, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(930, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(931, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(932, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(933, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(934, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(935, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(936, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(462, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(463, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(464, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(465, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(466, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(467, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(468, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(469, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(470, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(471, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(472, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(473, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(474, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(475, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(476, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(477, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(478, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(479, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(480, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(481, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(482, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(483, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(484, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(485, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(486, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(487, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(488, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(489, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(490, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(491, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(492, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(493, 7);
-INSERT INTO `map-city`(city_id, map_id)VALUES(596, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(597, 6);
-INSERT INTO `map-city`(city_id, map_id)VALUES(595, 6);
+﻿INSERT INTO `map-city` (city_id, map_id)
+
+VALUES
+(1, 1),
+(2, 1),
+(3, 1),
+(4, 1),
+(5, 1),
+(6, 1),
+(7, 1),
+(8, 1),
+(9, 1),
+(10, 1),
+(11, 1),
+(12, 1),
+(13, 1),
+(14, 1),
+(15, 1),
+(16, 1),
+(17, 1),
+(18, 1),
+(19, 1),
+(20, 1),
+(21, 1),
+(22, 1),
+(23, 1),
+(24, 1),
+(25, 1),
+(26, 1),
+(27, 1),
+(28, 1),
+(29, 1),
+(30, 1),
+(31, 1),
+(32, 1),
+(33, 1),
+(34, 1),
+(35, 1),
+(36, 1),
+(37, 1),
+(38, 1),
+(39, 1),
+(40, 1),
+(41, 1),
+(42, 1),
+(43, 1),
+(44, 1),
+(45, 1),
+(46, 1),
+(47, 1),
+(48, 1),
+(49, 1),
+(50, 1),
+(51, 1),
+(52, 1),
+(53, 1),
+(54, 1),
+(55, 1),
+(56, 1),
+(57, 1),
+(58, 1),
+(59, 1),
+(60, 1),
+(61, 1),
+(62, 1),
+(63, 1),
+(64, 1),
+(65, 1),
+(66, 1),
+(67, 1),
+(68, 1),
+(69, 1),
+(70, 2),
+(71, 2),
+(72, 2),
+(73, 2),
+(74, 2),
+(75, 2),
+(76, 2),
+(77, 2),
+(78, 2),
+(79, 2),
+(80, 2),
+(81, 2),
+(82, 2),
+(83, 2),
+(84, 2),
+(85, 2),
+(86, 2),
+(87, 2),
+(88, 2),
+(89, 2),
+(90, 2),
+(91, 2),
+(92, 2),
+(93, 2),
+(94, 2),
+(95, 2),
+(96, 2),
+(97, 2),
+(98, 2),
+(99, 2),
+(100, 2),
+(101, 2),
+(102, 2),
+(103, 2),
+(104, 2),
+(105, 2),
+(106, 2),
+(107, 2),
+(108, 2),
+(109, 2),
+(110, 2),
+(111, 2),
+(112, 2),
+(113, 2),
+(114, 2),
+(115, 2),
+(116, 2),
+(117, 2),
+(118, 2),
+(119, 2),
+(120, 2),
+(121, 2),
+(122, 2),
+(123, 2),
+(124, 2),
+(125, 2),
+(126, 2),
+(127, 2),
+(129, 2),
+(130, 2),
+(131, 2),
+(132, 2),
+(133, 2),
+(134, 2),
+(135, 2),
+(136, 2),
+(137, 2),
+(138, 2),
+(139, 2),
+(140, 2),
+(141, 2),
+(142, 2),
+(143, 2),
+(144, 2),
+(145, 2),
+(146, 2),
+(147, 2),
+(148, 2),
+(149, 2),
+(150, 2),
+(151, 2),
+(152, 2),
+(153, 2),
+(154, 2),
+(155, 2),
+(156, 2),
+(157, 2),
+(158, 2),
+(159, 2),
+(160, 2),
+(161, 2),
+(162, 2),
+(163, 2),
+(164, 2),
+(165, 2),
+(166, 2),
+(167, 2),
+(168, 2),
+(169, 2),
+(170, 3),
+(171, 3),
+(172, 3),
+(173, 3),
+(174, 3),
+(175, 3),
+(176, 3),
+(177, 3),
+(178, 3),
+(179, 3),
+(180, 3),
+(181, 3),
+(182, 3),
+(183, 3),
+(184, 3),
+(185, 3),
+(186, 3),
+(187, 3),
+(188, 3),
+(189, 3),
+(190, 3),
+(191, 3),
+(192, 3),
+(193, 3),
+(194, 3),
+(195, 3),
+(196, 3),
+(198, 3),
+(199, 3),
+(200, 3),
+(201, 3),
+(202, 3),
+(203, 3),
+(204, 3),
+(205, 3),
+(206, 3),
+(207, 3),
+(208, 3),
+(209, 3),
+(210, 3),
+(211, 3),
+(212, 3),
+(213, 3),
+(214, 3),
+(215, 3),
+(216, 3),
+(217, 3),
+(218, 3),
+(219, 3),
+(220, 3),
+(221, 3),
+(222, 3),
+(223, 3),
+(224, 3),
+(225, 3),
+(226, 3),
+(227, 3),
+(228, 3),
+(229, 3),
+(230, 3),
+(231, 3),
+(232, 3),
+(233, 3),
+(234, 3),
+(235, 3),
+(236, 3),
+(237, 3),
+(238, 3),
+(239, 3),
+(240, 3),
+(241, 3),
+(242, 3),
+(243, 3),
+(244, 3),
+(245, 3),
+(246, 3),
+(247, 3),
+(248, 3),
+(249, 3),
+(250, 3),
+(251, 3),
+(252, 3),
+(253, 3),
+(254, 3),
+(255, 3),
+(256, 3),
+(257, 3),
+(258, 3),
+(259, 3),
+(260, 3),
+(261, 3),
+(262, 3),
+(263, 3),
+(264, 3),
+(265, 3),
+(266, 3),
+(267, 3),
+(268, 3),
+(269, 4),
+(270, 4),
+(271, 4),
+(272, 4),
+(273, 4),
+(274, 4),
+(275, 4),
+(276, 4),
+(277, 4),
+(278, 4),
+(279, 4),
+(280, 4),
+(281, 4),
+(282, 4),
+(283, 4),
+(284, 4),
+(285, 4),
+(286, 4),
+(287, 4),
+(288, 4),
+(290, 4),
+(291, 4),
+(292, 4),
+(293, 4),
+(294, 4),
+(295, 4),
+(296, 4),
+(297, 4),
+(298, 4),
+(299, 4),
+(300, 4),
+(301, 4),
+(302, 4),
+(303, 4),
+(304, 4),
+(305, 4),
+(306, 4),
+(307, 4),
+(308, 4),
+(309, 4),
+(310, 4),
+(311, 4),
+(312, 4),
+(313, 4),
+(314, 4),
+(315, 4),
+(316, 4),
+(318, 4),
+(319, 4),
+(320, 4),
+(321, 4),
+(322, 4),
+(323, 4),
+(324, 4),
+(325, 4),
+(326, 4),
+(327, 4),
+(328, 4),
+(329, 4),
+(330, 4),
+(331, 4),
+(332, 4),
+(333, 4),
+(334, 4),
+(335, 4),
+(336, 4),
+(337, 4),
+(338, 4),
+(339, 4),
+(340, 4),
+(341, 4),
+(342, 4),
+(343, 4),
+(344, 4),
+(345, 4),
+(346, 4),
+(347, 4),
+(348, 4),
+(349, 4),
+(350, 4),
+(351, 4),
+(352, 4),
+(353, 4),
+(354, 4),
+(355, 4),
+(356, 4),
+(357, 4),
+(358, 4),
+(359, 4),
+(360, 4),
+(361, 4),
+(362, 4),
+(363, 4),
+(364, 4),
+(365, 4),
+(366, 4),
+(367, 4),
+(368, 4),
+(369, 4),
+(370, 5),
+(371, 5),
+(372, 5),
+(373, 5),
+(374, 5),
+(375, 5),
+(376, 5),
+(377, 5),
+(378, 5),
+(379, 5),
+(380, 5),
+(381, 5),
+(382, 5),
+(383, 5),
+(384, 5),
+(385, 5),
+(386, 5),
+(387, 5),
+(388, 5),
+(389, 5),
+(390, 5),
+(391, 5),
+(392, 5),
+(393, 5),
+(394, 5),
+(395, 5),
+(396, 5),
+(397, 5),
+(398, 5),
+(399, 5),
+(400, 5),
+(401, 5),
+(402, 5),
+(403, 5),
+(404, 5),
+(405, 5),
+(406, 5),
+(407, 5),
+(408, 5),
+(409, 5),
+(410, 5),
+(411, 5),
+(412, 5),
+(413, 5),
+(414, 5),
+(415, 5),
+(416, 5),
+(417, 5),
+(418, 5),
+(419, 5),
+(420, 5),
+(421, 5),
+(422, 5),
+(423, 5),
+(424, 5),
+(425, 5),
+(426, 5),
+(427, 5),
+(428, 5),
+(429, 5),
+(430, 5),
+(431, 5),
+(432, 5),
+(433, 5),
+(434, 5),
+(435, 5),
+(436, 5),
+(437, 5),
+(438, 5),
+(439, 5),
+(440, 5),
+(441, 5),
+(442, 5),
+(443, 5),
+(444, 5),
+(445, 5),
+(446, 5),
+(447, 5),
+(448, 5),
+(449, 5),
+(450, 5),
+(451, 5),
+(452, 5),
+(453, 5),
+(454, 5),
+(455, 5),
+(456, 5),
+(457, 5),
+(458, 5),
+(459, 5),
+(460, 5),
+(461, 5),
+(462, 5),
+(463, 5),
+(464, 5),
+(465, 5),
+(466, 5),
+(467, 5),
+(468, 5),
+(469, 5),
+(470, 5),
+(471, 5),
+(472, 5),
+(473, 5),
+(474, 5),
+(475, 5),
+(476, 5),
+(477, 5),
+(478, 5),
+(479, 5),
+(480, 5),
+(481, 5),
+(482, 5),
+(483, 5),
+(484, 5),
+(485, 5),
+(486, 5),
+(487, 5),
+(488, 5),
+(489, 5),
+(490, 5),
+(491, 5),
+(492, 5),
+(493, 5),
+(494, 5),
+(495, 5),
+(496, 5),
+(497, 5),
+(498, 5),
+(499, 5),
+(500, 5),
+(501, 5),
+(502, 5),
+(503, 5),
+(504, 5),
+(505, 5),
+(506, 5),
+(507, 5),
+(508, 5),
+(509, 5),
+(510, 5),
+(511, 5),
+(512, 5),
+(513, 5),
+(514, 5),
+(515, 5),
+(516, 5),
+(517, 5),
+(518, 5),
+(519, 5),
+(520, 5),
+(521, 5),
+(522, 5),
+(523, 5),
+(524, 5),
+(525, 5),
+(526, 5),
+(527, 5),
+(528, 5),
+(529, 5),
+(530, 5),
+(531, 5),
+(532, 5),
+(533, 5),
+(534, 5),
+(535, 5),
+(536, 5),
+(537, 5),
+(538, 5),
+(539, 5),
+(540, 5),
+(541, 5),
+(542, 5),
+(543, 5),
+(544, 5),
+(545, 5),
+(546, 5),
+(547, 5),
+(548, 5),
+(549, 5),
+(550, 5),
+(551, 5),
+(552, 5),
+(553, 5),
+(554, 5),
+(555, 5),
+(556, 5),
+(557, 5),
+(558, 5),
+(559, 5),
+(560, 5),
+(561, 5),
+(562, 5),
+(563, 5),
+(564, 5),
+(565, 5),
+(566, 5),
+(567, 5),
+(568, 5),
+(569, 5),
+(570, 5),
+(571, 5),
+(572, 5),
+(573, 5),
+(574, 5),
+(575, 5),
+(576, 5),
+(577, 5),
+(579, 5),
+(580, 5),
+(581, 5),
+(583, 5),
+(584, 5),
+(585, 5),
+(586, 5),
+(587, 5),
+(588, 5),
+(589, 5),
+(590, 5),
+(591, 5),
+(592, 5),
+(593, 5),
+(594, 5),
+(595, 5),
+(596, 5),
+(597, 5),
+(598, 5),
+(599, 5),
+(600, 5),
+(601, 5),
+(602, 5),
+(603, 5),
+(604, 5),
+(605, 5),
+(606, 5),
+(607, 5),
+(608, 5),
+(610, 5),
+(611, 5),
+(613, 5),
+(614, 5),
+(615, 5),
+(616, 5),
+(617, 5),
+(618, 5),
+(619, 5),
+(621, 5),
+(622, 5),
+(623, 5),
+(624, 6),
+(626, 6),
+(627, 6),
+(628, 6),
+(629, 6),
+(630, 6),
+(631, 6),
+(632, 6),
+(633, 6),
+(635, 6),
+(636, 6),
+(637, 6),
+(638, 6),
+(639, 6),
+(640, 6),
+(641, 6),
+(642, 6),
+(643, 6),
+(644, 6),
+(645, 6),
+(646, 6),
+(647, 6),
+(648, 6),
+(649, 6),
+(650, 6),
+(651, 6),
+(652, 6),
+(653, 6),
+(654, 6),
+(655, 6),
+(656, 6),
+(657, 6),
+(658, 6),
+(660, 6),
+(662, 6),
+(663, 6),
+(664, 6),
+(665, 6),
+(666, 6),
+(667, 6),
+(668, 6),
+(669, 6),
+(670, 6),
+(672, 6),
+(673, 6),
+(674, 6),
+(675, 6),
+(676, 6),
+(677, 6),
+(678, 6),
+(679, 6),
+(680, 6),
+(681, 6),
+(682, 6),
+(683, 6),
+(686, 6),
+(687, 6),
+(688, 6),
+(689, 6),
+(690, 6),
+(691, 6),
+(692, 6),
+(693, 6),
+(694, 6),
+(695, 6),
+(696, 6),
+(698, 6),
+(699, 6),
+(700, 6),
+(701, 6),
+(702, 6),
+(703, 6),
+(704, 6),
+(705, 6),
+(706, 6),
+(730, 7),
+(731, 7),
+(732, 7),
+(733, 7),
+(734, 7),
+(735, 7),
+(736, 7),
+(737, 7),
+(738, 7),
+(739, 7),
+(740, 7),
+(741, 7),
+(742, 7),
+(743, 7),
+(744, 7),
+(745, 7),
+(746, 7),
+(747, 7),
+(748, 7),
+(749, 7),
+(750, 7),
+(751, 7),
+(753, 7),
+(754, 7),
+(755, 7),
+(756, 7),
+(757, 7),
+(760, 7),
+(761, 7),
+(762, 7),
+(763, 7),
+(764, 7),
+(765, 7),
+(767, 7),
+(768, 7),
+(769, 7),
+(770, 7),
+(772, 7),
+(773, 7),
+(774, 7),
+(775, 7),
+(776, 7),
+(777, 7),
+(778, 7),
+(780, 7),
+(781, 7),
+(782, 7),
+(783, 7),
+(784, 7),
+(787, 7),
+(788, 7),
+(789, 7),
+(790, 7),
+(791, 7),
+(792, 7),
+(793, 7),
+(794, 7),
+(795, 7),
+(796, 7),
+(797, 7),
+(798, 7),
+(799, 7),
+(800, 7),
+(801, 7),
+(802, 7),
+(803, 7),
+(804, 7),
+(805, 7),
+(807, 7),
+(808, 7),
+(809, 7),
+(810, 7),
+(811, 7),
+(812, 7),
+(813, 7),
+(814, 7),
+(815, 7),
+(816, 7),
+(817, 7),
+(818, 7),
+(819, 7),
+(820, 7),
+(821, 7),
+(822, 7),
+(823, 7),
+(824, 7),
+(825, 7),
+(826, 7),
+(827, 7),
+(828, 7),
+(829, 7),
+(830, 7),
+(831, 7),
+(832, 7),
+(833, 7),
+(834, 7),
+(835, 7),
+(836, 7),
+(837, 7),
+(838, 7),
+(839, 7),
+(840, 7),
+(841, 7),
+(842, 7),
+(843, 7),
+(844, 7),
+(845, 7),
+(846, 7),
+(847, 7),
+(848, 7),
+(849, 7),
+(850, 7),
+(851, 7),
+(852, 7),
+(853, 7),
+(854, 7),
+(855, 7),
+(856, 7),
+(857, 7),
+(858, 7),
+(859, 7),
+(860, 7),
+(861, 7),
+(862, 7),
+(863, 7),
+(864, 7),
+(865, 7),
+(866, 7),
+(867, 7),
+(868, 7),
+(869, 7),
+(870, 7),
+(871, 7),
+(872, 7),
+(873, 7),
+(874, 7),
+(875, 7),
+(876, 7),
+(877, 7),
+(878, 7),
+(879, 7),
+(880, 7),
+(881, 7),
+(882, 7),
+(883, 7),
+(884, 7),
+(885, 7),
+(886, 7),
+(887, 7),
+(888, 7),
+(889, 7),
+(890, 7),
+(891, 7),
+(892, 7),
+(893, 7),
+(894, 7),
+(895, 7),
+(896, 7),
+(897, 7),
+(898, 7),
+(899, 7),
+(900, 7),
+(901, 7),
+(902, 7),
+(903, 7),
+(904, 7),
+(905, 7),
+(906, 7),
+(907, 7),
+(908, 7),
+(909, 7),
+(910, 7),
+(911, 7),
+(912, 7),
+(913, 7),
+(914, 7),
+(915, 7),
+(916, 7),
+(917, 7),
+(918, 7),
+(919, 7),
+(920, 7),
+(921, 7),
+(922, 7),
+(923, 7),
+(924, 7),
+(925, 7),
+(926, 7),
+(927, 7),
+(928, 7),
+(929, 7),
+(930, 7),
+(931, 7),
+(932, 7),
+(933, 7),
+(934, 7),
+(935, 7),
+(936, 7),
+(462, 7),
+(463, 7),
+(464, 7),
+(465, 7),
+(466, 7),
+(467, 7),
+(468, 7),
+(469, 7),
+(470, 7),
+(471, 7),
+(472, 7),
+(473, 7),
+(474, 7),
+(475, 7),
+(476, 7),
+(477, 7),
+(478, 7),
+(479, 7),
+(480, 7),
+(481, 7),
+(482, 7),
+(483, 7),
+(484, 7),
+(485, 7),
+(486, 7),
+(487, 7),
+(488, 7),
+(489, 7),
+(490, 7),
+(491, 7),
+(492, 7),
+(493, 7),
+(596, 6),
+(597, 6),
+(595, 6);
