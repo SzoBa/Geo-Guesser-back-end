@@ -50,5 +50,13 @@ class HighScoreTest extends TestCase
 
     }
 
+    private function logInGetTokenForTestCase(){
+        $loggedIn = $this->json('post', 'api/login', [
+            'email' => 'HighScoreTestUser@email.com',
+            'password'=>'HighScoreTestUser'
+        ]);
+
+        return $loggedIn["token"];
+    }
 
 }
