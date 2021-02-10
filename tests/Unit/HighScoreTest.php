@@ -3,9 +3,7 @@
 
 namespace Tests\Unit;
 
-use App\Http\Controllers\HighscoreController;
-use App\Http\Controllers\LoginController;
-use Illuminate\Http\Request;
+
 use Tests\TestCase;
 
 class HighScoreTest extends TestCase
