@@ -21,27 +21,29 @@ class HighScoreTest extends TestCase
 
     public function testHighScoreApi_getById_Status_notLoggedIn()
     {
+        if ($this->loggedIn) $this->logout();
+
         $response = $this->get('/api/highscore/1');
         $response->assertStatus(500);
     }
 
     public function testHighScore_getById_Status_loggedIn()
     {
-        $this->registerTestUser();
-        $token = $this->logInGetTokenForTestCase();
-        $response = $this->withHeader('Authorization', 'Bearer ' . $token)
+        if (!$this->registered) $this->registerTestUser();
+
+        $testToken = ($this->token) ? $this->token : $this->logInGetTokenForTestCase();
+        $response = $this->withHeader('Authorization', 'Bearer ' . $testToken)
             ->json('get', 'api/highscore/1', [
                 'email' => 'sandybeach294@yahoo.com',
             ]);
-
         $response->assertStatus(200);
     }
 
     public function testHighScore_store_status_loggedIn()
     {
-        $this->registerTestUser();
-        $token = $this->logInGetTokenForTestCase();
-        $response = $this->withHeader('Authorization', 'Bearer ' . $token)
+        if (!$this->registered) $this->registerTestUser();
+        $testToken = ($this->token) ? $this->token : $this->logInGetTokenForTestCase();
+        $response = $this->withHeader('Authorization', 'Bearer ' . $testToken)
             ->json('post', 'api/highscores', [
                 'score' => '1',
                 'map' => '1',
@@ -58,6 +60,8 @@ class HighScoreTest extends TestCase
             'password' => 'HighScoreTestUser',
             'confirm_password' => 'HighScoreTestUser'
         ]);
+
+        $this->registered = true;
 
     }
 
