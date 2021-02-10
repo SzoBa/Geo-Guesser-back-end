@@ -20,7 +20,7 @@ class RegistrationController extends Controller
     public function store(Request $request)
     {
         $validator = Validator::make($request->all(), [
-            'name' => 'required',
+            'name' => 'required|unique:users',
             'email' => 'required|email|unique:users',
             'password' => 'required|min:6',
             'confirm_password' => 'required|min:6|max:20|same:password'
