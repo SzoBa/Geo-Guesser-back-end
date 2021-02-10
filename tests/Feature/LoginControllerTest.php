@@ -7,7 +7,7 @@ use Tests\TestCase;
 class LoginControllerTest extends TestCase
 {
 
-    public function testMissingPasswordForLogin(): void
+    public function test_missing_password_for_login(): void
     {
 
         $response = $this->json('post', 'api/login', [
@@ -16,7 +16,7 @@ class LoginControllerTest extends TestCase
         self::assertEquals('{"password":["The password field is required."]}', $response->getContent());
     }
 
-    public function testingInvalidLoginEmailInformationForLogin(): void
+    public function test_invalid_login_email_information_for_login(): void
     {
 
         $response = $this->json('post', 'api/login', [
@@ -26,7 +26,7 @@ class LoginControllerTest extends TestCase
         self::assertEquals('{"email":["The selected email is invalid."]}', $response->getContent());
     }
 
-    public function testingInvalidLoginPasswordInformationForLogin(): void
+    public function test_invalid_login_password_information_for_login(): void
     {
 
         $response = $this->json('post', 'api/login', [
@@ -36,7 +36,7 @@ class LoginControllerTest extends TestCase
         self::assertEquals('{"message":["Wrong password!"]}', $response->getContent());
     }
 
-    public function testSuccessfulLogin(): void
+    public function test_successful_login(): void
     {
 
         $response = $this->json('post', 'api/login', [
@@ -48,7 +48,7 @@ class LoginControllerTest extends TestCase
 
     /*
      * This is not working - Postman test
-    public function testSuccessfulLogout(): void
+    public function test_successful_logout(): void
     {
         $loginResponse = $this->json('post', 'api/login', [
             'email' => 'test@test.com',
