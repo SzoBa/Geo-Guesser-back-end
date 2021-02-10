@@ -13,13 +13,15 @@ class HighScoreTest extends TestCase
     private $registered = false;
     private $loggedIn = false;
 
-    public function testHighScoreApi_Index_Status()
+    public function testHighScoreApi_index_status()
     {
         $response = $this->get('/api/highscores/1');
         $response->assertStatus(201);
     }
 
-    public function testHighScoreApi_getById_Status_notLoggedIn()
+
+
+    public function testHighScoreApi_getById_status_notLoggedIn()
     {
         if ($this->loggedIn) $this->logout();
 
@@ -27,7 +29,19 @@ class HighScoreTest extends TestCase
         $response->assertStatus(500);
     }
 
-    public function testHighScore_getById_Status_loggedIn()
+    public function testHighScore_store_status_notLoggedIn()
+    {
+        if ($this->loggedIn) $this->logout();
+        $testToken = $this->token;
+        $response = $this->withHeader('Authorization', 'Bearer ' . $testToken)
+            ->json('post', 'api/highscores', [
+                'score' => '1',
+                'map' => '1',
+            ]);
+        $response->assertStatus(401);
+    }
+
+    public function testHighScore_getById_status_loggedIn()
     {
         if (!$this->registered) $this->registerTestUser();
 
