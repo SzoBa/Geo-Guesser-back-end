@@ -25,12 +25,8 @@ class HighScoreTest extends TestCase
 
     public function testHighScore_getById_Status_loggedIn()
     {
-        $loggedIn = $this->json('post', 'api/login', [
-                'email' => 'sandybeach294@yahoo.com',
-                'password'=>'password'
-            ]);
-
-        $token = $loggedIn["token"];
+        $this->registerTestUser();
+        $token = $this->logInGetTokenForTestCase();
         $response = $this->withHeader('Authorization', 'Bearer ' . $token)
             ->json('get', 'api/highscore/1', [
                 'email' => 'sandybeach294@yahoo.com',
