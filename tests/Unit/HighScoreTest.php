@@ -41,6 +41,12 @@ class HighScoreTest extends TestCase
 
 
     private function registerTestUser(){
+        $this->json('post', 'api/registration', [
+            'name' => 'HighScoreTestUser',
+            'email' => 'HighScoreTestUser@email.com',
+            'password' => 'HighScoreTestUser',
+            'confirm_password' => 'HighScoreTestUser'
+        ]);
 
     }
 
