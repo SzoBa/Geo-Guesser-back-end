@@ -35,6 +35,19 @@ class HighScoreTest extends TestCase
         $response->assertStatus(200);
     }
 
+    public function testHighScore_store_status_loggedIn()
+    {
+        $this->registerTestUser();
+        $token = $this->logInGetTokenForTestCase();
+        $response = $this->withHeader('Authorization', 'Bearer ' . $token)
+            ->json('post', 'api/highscores', [
+                'score' => '1',
+                'map' => '1',
+            ]);
+        $response->assertStatus(201);
+    }
+
+
 
     private function registerTestUser(){
         $this->json('post', 'api/registration', [
