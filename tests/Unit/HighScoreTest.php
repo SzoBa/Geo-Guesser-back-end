@@ -9,6 +9,10 @@ use Tests\TestCase;
 class HighScoreTest extends TestCase
 {
 
+    private $token = null;
+    private $registered = false;
+    private $loggedIn = false;
+
     public function testHighScoreApi_Index_Status()
     {
         $response = $this->get('/api/highscores/1');
