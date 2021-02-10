@@ -70,4 +70,13 @@ class HighScoreTest extends TestCase
         return $loggedIn["token"];
     }
 
+    private function logout(){
+        $this->withHeader('Authorization', 'Bearer ' . $this->token);
+        $this->json('delete', 'api/logout', [
+            'email' => 'HighScoreTestUser@email.com',
+            'password'=>'HighScoreTestUser'
+        ]);
+        $this->token = null;
+    }
+
 }
