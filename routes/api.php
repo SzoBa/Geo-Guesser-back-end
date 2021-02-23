@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\ExportController;
 use App\Http\Controllers\HighscoreController;
 use App\Http\Controllers\LoginController;
 use App\Http\Controllers\MapController;
@@ -34,3 +35,4 @@ Route::get('/highscores/{mapId}', [HighscoreController::class, 'index']);
 Route::get('/highscore/{mapId}', [HighscoreController::class, 'getById'])->middleware('auth:sanctum');
 Route::post('/highscores', [HighscoreController::class, 'store'])->middleware('auth:sanctum');
 
+Route::get('/export', [ExportController::class, 'export'])->middleware('auth:sanctum');
