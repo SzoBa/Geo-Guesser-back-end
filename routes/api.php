@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\EditUserController;
 use App\Http\Controllers\HighscoreController;
 use App\Http\Controllers\LoginController;
 use App\Http\Controllers\MapController;
@@ -33,4 +34,6 @@ Route::post('/map', [MapController::class, 'show'])->middleware('auth:sanctum');
 Route::get('/highscores/{mapId}', [HighscoreController::class, 'index']);
 Route::get('/highscore/{mapId}', [HighscoreController::class, 'getById'])->middleware('auth:sanctum');
 Route::post('/highscores', [HighscoreController::class, 'store'])->middleware('auth:sanctum');
+
+Route::post('/edit-user', [EditUserController::class, 'update'])->middleware('auth:sanctum');
 
