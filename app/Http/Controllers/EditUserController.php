@@ -74,7 +74,7 @@ class EditUserController extends Controller
         DB::table('users')
             ->where('id', $userId)
             ->update(['name' => $username]);
-        return response(["message"=> "Username successfully updated"], 202);
+        return response(["message"=> "Username successfully updated", "username" => $username], 202);
     }
 
     /**
