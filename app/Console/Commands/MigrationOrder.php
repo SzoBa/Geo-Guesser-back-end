@@ -44,7 +44,7 @@ class MigrationOrder extends Command
             '2021_01_11_134950_create_maps_table.php',
             '2021_01_11_135004_create_cities_table.php',
             '2021_01_11_135111_map__city.php',
-            '2021_01_11_134908_create_highscores_table.php',
+            '2021_01_11_135908_create_highscores_table.php',
             ];
 
         foreach($migrations as $migration)
