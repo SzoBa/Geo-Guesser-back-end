@@ -7,8 +7,15 @@ use Illuminate\Support\Facades\Validator;
 
 class LoginController extends Controller
 {
-    //
 
+    /**
+     * Validate and check user information in database.
+     * Validation approved -> create token for user.
+     * Validation failed -> return error message.
+     *
+     * @param Request $request
+     * @return \Illuminate\Contracts\Foundation\Application|\Illuminate\Contracts\Routing\ResponseFactory|\Illuminate\Http\Response
+     */
     public function login(Request $request) {
         $rules = [
             'email' => 'required|string|email|max:255|exists:users,email',
@@ -26,6 +33,12 @@ class LoginController extends Controller
         return response(['message' => ['Wrong password!']], 401);
     }
 
+    /**
+     * Delete user token on Logout request.
+     *
+     * @param Request $request
+     * @return \Illuminate\Contracts\Foundation\Application|\Illuminate\Contracts\Routing\ResponseFactory|\Illuminate\Http\Response
+     */
     public function logout(Request $request) {
         $request->user()->currentAccessToken()->delete();
         return response(["message" => "Logout successful"], 204);

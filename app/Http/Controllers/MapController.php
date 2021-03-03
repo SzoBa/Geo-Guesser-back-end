@@ -9,7 +9,7 @@ use Illuminate\Support\Facades\DB;
 class MapController extends Controller
 {
     /**
-     * Display a listing of the resource.
+     * Display a listing of maps available.
      *
      * @return \Illuminate\Http\Response
      */
@@ -18,19 +18,9 @@ class MapController extends Controller
         return response(Map::all(), 200);
     }
 
-    /**
-     * Store a newly created resource in storage.
-     *
-     * @param  \Illuminate\Http\Request  $request
-     * @return \Illuminate\Http\Response
-     */
-    public function store(Request $request)
-    {
-        //
-    }
 
     /**
-     * Display the specified resource.
+     * Display the requested map and relating cities.
      *
      * @param  int $id
      * @return \Illuminate\Http\Response
@@ -53,28 +43,5 @@ class MapController extends Controller
             ->get();
 
         return response($cities, 200);
-    }
-
-    /**
-     * Update the specified resource in storage.
-     *
-     * @param  \Illuminate\Http\Request  $request
-     * @param  \App\Models\Map  $map
-     * @return \Illuminate\Http\Response
-     */
-    public function update(Request $request, Map $map)
-    {
-        //
-    }
-
-    /**
-     * Remove the specified resource from storage.
-     *
-     * @param  \App\Models\Map  $map
-     * @return \Illuminate\Http\Response
-     */
-    public function destroy(Map $map)
-    {
-        //
     }
 }
