@@ -60,7 +60,7 @@ return [
         'pgsql' => [
             'driver' => 'pgsql',
             'host' => env('DB_HOST', 'db4free.net'),
-            'port' => env('DB_PORT', '3306'),
+            'port' => env('DB_PORT', '5432'),
             'database' => env('DB_DATABASE', 'geo_junkies'),
             'username' => env('DB_USERNAME', 'codecool_geo'),
             'password' => env('DB_PASSWORD', '12345678'),
