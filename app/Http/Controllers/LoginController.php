@@ -32,7 +32,6 @@ class LoginController extends Controller
         }
         return response(['message' => ['Wrong password!']], 401);
     }
-
     /**
      * Delete user token on Logout request.
      *
